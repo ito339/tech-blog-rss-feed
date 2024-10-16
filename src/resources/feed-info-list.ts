@@ -254,6 +254,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['TechnoEdge', 'https://www.techno-edge.net/rss20/index.rdf'],
   ['TEXAL', 'https://texal.jp/feed/'],
 
+  // 追加分
+  ['久保祐丈', 'https://rss.app/feed/LiqPpnHByVxwGfTz']
   // 追加分(研究機関)
   ['AIST 産業技術総合研究所', 'https://www.aist.go.jp/ctl/module/mid/27/tid/75/rss.php'],
   ['統計数理研究所 プレスリリース', 'https://www.ism.ac.jp/ura/press/rss.rss'],
